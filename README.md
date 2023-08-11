@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **Web and JAVA **
 - 🌱 I’m currently learning **MERN**
 - 📫 How to reach me **21512051.dypit@dypvp.edu.in**
-- 😄 All information on my **[Portfolio](https://itzParthT.github.io/PortfolioWebsite/)**
 - 👨‍🎓 My all projects on **[Github](https://github.com/itzParthT)**
 
 <p align="center">&nbsp;
